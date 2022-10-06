@@ -1,0 +1,9 @@
+.randomStyle{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    background-color: aqua;
+}
+.card-body{
+   background-color: rgb(239, 211, 68);
+}
